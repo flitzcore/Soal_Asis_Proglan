@@ -9,7 +9,9 @@ Create a program to calculate the minimum cost combination of troops needed to a
 You are allowed to create an additional class for the program. However, Knight, Demon, and Council classes are mandatory. You will receive an additional 10 points for every other class you create.
 
 Basic system with Knight, Demon, Council -- 70 point
+
 Archer, Berserker, Golem, Mage -- 10 point each per-apply
+
 Max at 100 point
 
 ### Expected Output
